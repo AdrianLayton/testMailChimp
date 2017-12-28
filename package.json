@@ -1,0 +1,19 @@
+{
+  "name": "testmailchimp",
+  "version": "1.0.0",
+  "description": "Testing mail chimp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianLayton/testMailChimp.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdrianLayton/testMailChimp/issues"
+  },
+  "homepage": "https://github.com/AdrianLayton/testMailChimp#readme"
+}
